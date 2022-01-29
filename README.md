@@ -19,14 +19,14 @@ Hello my name is Santosh and this project automates different modules of Aspire 
 
 ## Running Examples
 
-Download the zip or clone the Git repository.
-Unzip the zip file (if you downloaded one).
-Open Command Prompt and Change directory (cd) to folder containing pom.xml
-Open IDE
-File -> Import -> Existing Maven Project -> Navigate to the folder where you unzipped the zip
-Select the right project
-Go to POM.xml and make sure all dependencies are installed
-Build testng.xml project
-Right Click on the testng.xml and Run as Test Ng Application
-You are all Set
-All the Test Case with @Test tag will start executing.
+1. Download the zip or clone the Git repository.
+2. Unzip the zip file (if you downloaded one).
+3. Open Command Prompt and Change directory (cd) to folder containing pom.xml
+4. Open IDE
+5. File -> Import -> Existing Maven Project -> Navigate to the folder where you unzipped the zip
+6. Select the right project
+7. Go to POM.xml and make sure all dependencies are installed
+8. Build testng.xml project
+9. Right Click on the testng.xml and Run as Test Ng Application
+10. You are all Set
+11. All the Test Case with @Test tag will start executing.
